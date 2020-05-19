@@ -1,0 +1,23 @@
+[04:23:29] [User Authenticator #55/INFO]: UUID of player eHAce is 81fbb535-4120-40be-bc79-62f22c5ba900
+[04:23:29] [Server thread/INFO]: eHAce[/50.92.107.209:50568] logged in with entity id 1187794 at (565.3111273249452, 64.0, -1859.6250354908511)
+[04:23:29] [Server thread/INFO]: eHAce joined the game
+[04:25:12] [Server thread/INFO]: eHAce lost connection: Disconnected
+[04:25:12] [Server thread/INFO]: eHAce left the game
+[04:27:42] [User Authenticator #56/INFO]: UUID of player eHAce is 81fbb535-4120-40be-bc79-62f22c5ba900
+[04:27:42] [Server thread/INFO]: eHAce[/50.92.107.209:50805] logged in with entity id 1189015 at (583.9742722000079, 79.0, -1959.0305695077238)
+[04:27:42] [Server thread/INFO]: eHAce joined the game
+[04:27:48] [Server thread/INFO]: eHAce lost connection: Disconnected
+[04:27:48] [Server thread/INFO]: eHAce left the game
+[04:34:24] [Server thread/INFO]: Stopping the server
+[04:34:24] [Server thread/INFO]: Stopping server
+[04:34:24] [Server thread/INFO]: Saving players
+[04:34:24] [Server thread/INFO]: Saving worlds
+[04:34:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:34:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:34:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:34:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:34:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:34:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:34:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
